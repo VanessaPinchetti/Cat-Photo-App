@@ -1,0 +1,134 @@
+body {
+    background-color: #dad2dd;
+}
+
+
+div.post {
+    background: #fffdfd;
+    width: "60";
+    max-width: 509px;
+    margin: 0 auto;
+    padding-bottom: 10px;
+    border: 40px solid #837889;
+    align-items: center;
+}
+
+
+h1 {
+    font-family: fantasy;
+    text-align: center;
+}
+
+
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #0e1314;
+    text-align: center;  
+}
+
+h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #0e1314;
+    text-align: center;
+}
+
+
+p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 21%;
+}
+
+
+.photo {
+    margin-left: 20%;
+    width: 250px;
+    height: 250px;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.description{
+    margin-left: 100px;
+}
+
+
+ul {
+    margin-left: 110px;
+}
+
+
+li {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #0e1314;
+    font-size: small;
+}
+
+
+ol{
+    margin-left: 110px; 
+}
+
+
+figcaption {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+.box1{
+    margin-bottom: 25px;    
+} 
+
+
+.box2{
+    margin-bottom: 25px;
+}
+
+
+.text1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+.text2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+.titleform{
+    padding-bottom: 10px;
+}
+
+
+.indoor {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+.outdoor{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+.placeholder{
+    margin-left: 5px;
+}
+
+
+button{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:#0b0210;
+    background-color: #837889;
+    border-radius: 2px;
+}
+
+hr{
+  border: none;
+}
+
+footer {
+    text-align: center;
+    padding-right: 15%;
+}
+
+
+
